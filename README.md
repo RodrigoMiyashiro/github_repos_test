@@ -17,12 +17,12 @@ Faça um <b><i>fork</i></b> deste repostório.
 Ao finalizar o teste, submeta um <b><i>pull request</b></i> para o repositório.
 
 <h3>Tarefas</h3>
-Criar um aplicativo para consultar a API do GitHub e trazer os repositórios mais populares de Java.
+Criar um aplicativo para consultar a API do GitHub e trazer os repositórios mais populares de <b>Java</b>.
 <br>
 Deverá conter:
 
-- [ ] <b>Lista de repositório</b>. Cada repositório deve exibir: nome dor repositório, descrição, nome e foto do autor, número de <i>stars</i> e número de <i>forks</i>;
-- [ ] <b><i>Pull Requests</i> de um repositório</b>. Cada item deve exibir o nome e foto do autor do PR, título do PR, data do PR e <i>body</i> do PR. Ao tocar um item, deve abrir a página do PR em questão;
+- [ ] <b>Lista de repositório</b>. Cada repositório deve exibir: nome dor repositório, descrição, nome e foto do autor, número de <i>stars</i> e número de <i>forks</i>. A lista deverá ter <i>scroll</i> infinito. Ao clicar em um repositório, apresentar seus <i>Pull Requests</i>;
+- [ ] <b><i>Pull Requests</i> de um repositório</b>. Cada item deve exibir o nome e foto do autor do PR, título do PR, data do PR e <i>body</i> do PR.
 
 API: https://docs.github.com/en/rest/repos
 <br>
@@ -31,7 +31,7 @@ API: https://docs.github.com/en/rest/repos
 - [ ] Pense na experiência que o usuário terá ao utilizar sua aplicação;
 - [ ] criatividade na apresentação da tela;
 - [ ] Favoritar um repositório;
-- [ ] Se favoritado, apresentar a lista de repositórios favoritados;
+- [ ] Se favoritado, apresentar a lista de repositórios favoritados (<i>offline</i>);
 
 <h3>Dicas</h3>
 
